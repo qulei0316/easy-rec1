@@ -1,6 +1,5 @@
 """
 精排主脚本：Transformer 精排（序列建模）
-保留 DNN 版本请运行 rank_main_dnn.py
 """
 import pandas as pd
 import numpy as np
